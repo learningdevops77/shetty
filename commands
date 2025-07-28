@@ -1,0 +1,14 @@
+Commands used in GIT as of now
+
+--> git add = To add the content of the file from working copy to to staging area (untracked)
+--> git commit -m " message "  = To add the content of the file from staging area to local repo (new commit id will get created once we commited)
+
+
+--> git remote add origin https://github.com/learningdevops77/shetty.git (your git hub link) = To add your local repo
+to remote repository
+--> git push origin master(branch name) = Which is used to push the branch from local to remote repository
+(after entering the above command we need to give the user name and passcode (to get passcode we need to go to the 
+top right corner icon and developer one and generate the classic passcode)
+
+--> git branch = To see the branches 
+--> git checkout branch name = To change the branch 
